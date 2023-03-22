@@ -9,7 +9,7 @@ If an exact match is not found, the script will suggest similar products
 
 examples:
 <pre>
-```bash
+
 Enter the name of the product: ex2300-24p
 Enter the quantity of the product: 1
 +----------------+----------+-------------+------------+-----+------------+---------+--------+
@@ -89,5 +89,4 @@ Enter the quantity of the product: 6
 +----------------+----------+-------------+------------+-----+------------+--------------------+--------+
 MX204 Integrated SKU with Base HW + Standard Junos SW, Perpetual
 
-```
 </pre>
