@@ -1,5 +1,7 @@
 # price-list-queries
-A simple Python script to search for SKU information in an Juniper price list excel file.  Place the pricelist_2023_03.xlsx Excel file in the same directory as the script.
+A simple Python script to search for SKU information in an Juniper price list excel file.  
+
+Place the pricelist_2023_03.xlsx Excel file in the same directory as the script.
 
 - Enter the name of the product when prompted.
 - If an exact match is found, enter the quantity of the product when prompted.
