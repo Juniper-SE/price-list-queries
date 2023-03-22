@@ -8,6 +8,8 @@ The script will display the product information and total price in a table forma
 If an exact match is not found, the script will suggest similar products
 
 examples:
+<pre>
+```bash
 Enter the name of the product: ex2300-24p
 Enter the quantity of the product: 1
 +----------------+----------+-------------+------------+-----+------------+---------+--------+
@@ -86,3 +88,6 @@ Enter the quantity of the product: 6
 | MX204-HW-BASE  |    6     |    225000   |   37500    | NaT | 2020-04-03 | MX304, ACX7100-48L |  Ship  |
 +----------------+----------+-------------+------------+-----+------------+--------------------+--------+
 MX204 Integrated SKU with Base HW + Standard Junos SW, Perpetual
+
+```
+</pre>
